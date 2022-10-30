@@ -1,0 +1,9 @@
+{
+	"ip":"RzkyXyy.aternos.me",
+	"port": "27912",
+	"name": "NAKANO NINO",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
